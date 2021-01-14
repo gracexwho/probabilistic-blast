@@ -1,5 +1,5 @@
 # Description
-A Python implementation of a probabilistic BLAST algorithm.
+A Python implementation of a probabilistic BLAST algorithm that builds off of JiaShun-Xiao/BLAST-bioinfor-tool
 
 ## Authors
 Project by Grace Hu & Xingyu Chen
